@@ -1,0 +1,12 @@
+{
+    "block":                1,
+    "spike":                8,
+    "halfspike":            39,
+    "smallspike":           103,
+    "tinyspike":            392,
+    "bigsaw":               1705,
+    "mediumsaw":            1706,
+    "tinysaw":              1707,
+    "groundspike":          1715,
+    "animationTrigger":     1585
+}
